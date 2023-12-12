@@ -26,3 +26,4 @@ For breakout sessions, I went to A Comparative Analysis of RISC-V Architecture B
 
 Then, I ended up working on some important company meetings and missed a few talks. In the afternoon, I attended "Challenges in CPU DV: Why 'It Boots Linux' is Not Verification". Basically, it was the evil in the details where it missed a few ISA-level bugs where additional tracing and verification strategy were required. For "SIMD everywhere" talk, the only comment was that those looks like a University-based project where it was great to see younger generations to take advantage of RISC-V to bring open innovation in the table.
 
+In the meantime, 
