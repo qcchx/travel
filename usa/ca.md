@@ -8,4 +8,6 @@ I was late for the RISC-V 101 due to public transportation hiccups. This was a g
 - RISE (RISC-V Software Ecosystem): open-source software for RISC-V
 - Vendor-specific sites like Green Hills for Software, Andres as a core provider, and Microchip as a silicon provider.
 
-The next session talked about "Buy vs Make" mindset when coming to RISC-V. 
+The next session talked about "Buy vs Make" mindset when coming to RISC-V. As expected, there are tradeoffs to balance among flexibilty, cost and easy-of-use. There are more companies providing high quality offerings like MIPS Technologies had been switched to embrace RISC-V lately and give up on MIPS ISA. Seagate (most famous for its storage products) is getting into the customized RISC-V core business. In that sense, RISC-V does open up a new world of open markets for hardware ecosystem where a single vendor like ARM Ltd. has no match of it.
+
+In the afternoon, I attended the Priledged Software HC (Horizontal Committee). They were pretty happy to see in the last year that IOMMU Architecute Specification and Advanced Interrupt Architecture Specification had been ratified. Then, I attended the Unprivileged Specification ISA Committee where finally meet one of the founders, Krste Asanovic in person.
