@@ -18,3 +18,4 @@ Next, in SOC Infrastructure HC, people are working on DTPM (Debug Trace and Perf
 
 There was a wonderful socal event hosted by Impera where the whole ballroom was packed with music, drinks and food. Unfortunately, I had to leave early to catch the public transportations.
 ## Day-2
+First, the keynote from RISC-V International CEO to look back as a sucessful year of 2023. RISC-V Lab was created to CI testing for software and host machine resources for community to develop software ecosystems. Two market development groups had also been formed this year.
