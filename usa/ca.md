@@ -12,7 +12,7 @@ The next session talked about "Buy vs Make" mindset when coming to RISC-V. As ex
 
 In the afternoon, I attended the Priledged Software HC (Horizontal Committee). They were pretty happy to see in the last year that IOMMU Architecute Specification and Advanced Interrupt Architecture Specification had been ratified. Then, I attended the Unprivileged Specification ISA Committee where finally meet one of the founders, Krste Asanovic in person.
 
-Later, in Secuirty HC, One of the most projects people are working on is CHERI (Capability Hardware Enhanced RISC Instructions) which was based on the research from University of Cambridge. It has already been implemented in ARM, and the RISC-V implementation would only be conceptual compatible with ARM.
+Later, in Secuirty HC, One of the most important projects people are working on is CHERI (Capability Hardware Enhanced RISC Instructions) which was based on the research from University of Cambridge. It has already been implemented in ARM, and the RISC-V implementation would only be conceptual compatible with ARM.
 
 Next, in SOC Infrastructure HC, people are working on DTPM (Debug Trace and Performance Monitoring) SIG where there are two technology. One is E-trace (Efficent Trace), and the other is N-trace (Nexus-based Trace). In a nutshell, N-trace provides more complete, end-to-end trace from cores to interconnect in SOC. To trace multiple harts (cores), it needs one encoder per hart. We can also trace ony part of the system by using triggers. Then, it will send the full messages when something went wrong.
 
