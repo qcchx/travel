@@ -14,7 +14,7 @@ In the afternoon, I attended the Priledged Software HC (Horizontal Committee). T
 
 Later, in Secuirty HC, One of the most important projects people are working on is CHERI (Capability Hardware Enhanced RISC Instructions) which was based on the research from University of Cambridge. It has already been implemented in ARM, and the RISC-V implementation would only be conceptual compatible with ARM.
 
-Next, in SOC Infrastructure HC, people are working on DTPM (Debug Trace and Performance Monitoring) SIG where there are two technology. One is E-trace (Efficent Trace), and the other is N-trace (Nexus-based Trace). In a nutshell, N-trace provides more complete, end-to-end trace from cores to interconnect in SOC. To trace multiple harts (cores), it needs one encoder per hart. We can also trace ony part of the system by using triggers. Then, it will send the full messages when something went wrong.
+Next, in SOC Infrastructure HC, people are working on DTPM (Debug Trace and Performance Monitoring) SIG where there are two technology. One is E-trace (Efficent Trace), and the other is N-trace (Nexus-based Trace). In a nutshell, N-trace provides more complete, end-to-end trace from cores to interconnect in SOC. To trace multiple harts (cores), it needs one encoder per hart. We can also trace only part of the system by using triggers. Then, it will send the full messages when something went wrong.
 
 There was a wonderful socal event hosted by Impera where the whole ballroom was packed with music, drinks and food. Unfortunately, I had to leave early to catch the public transportations.
 ## Day-2
